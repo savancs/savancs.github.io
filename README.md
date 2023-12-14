@@ -50,23 +50,24 @@ For this we would have used sklearn.nearestneighbors to find training samples of
 ## Media and Examples
 
 ### WandB visualizations
-![Screenshot 2023-12-13 221334](https://github.com/savancs/savancs.github.io/assets/97743492/16a01843-a88f-43b4-a808-7b1e6c16caa0)
-
-![Training Loss](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20220739.jpg)
-![Batch Loss](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20220910.jpg)
+![trainloss](https://github.com/savancs/savancs.github.io/assets/97743492/aa52e296-5d6f-4d9d-b18a-1ba21e6afdff)
+![batchloss](https://github.com/savancs/savancs.github.io/assets/97743492/169bc8cf-e54a-4f64-b5f3-5d490629a6a2)
 
 ### Our Data
-![Dataset Head](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20221003.jpg)
+![datasets](https://github.com/savancs/savancs.github.io/assets/97743492/e5fcb2aa-3d98-4897-b91e-7b22235cb620)
 
 ### Tagging & Tokenizing
-![NER Tagging](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20221255.jpg)
-![NER Tokens](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20221334.jpg)
+![nertagging](https://github.com/savancs/savancs.github.io/assets/97743492/de96011d-7c89-42fa-8a44-e452fa87757b)
+![token](https://github.com/savancs/savancs.github.io/assets/97743492/81d886da-0257-4e98-a05d-cba582db008b)
+
 
 ### Training using DistilBERT
-![Training block](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20221702.jpg)
+![trainingloop](https://github.com/savancs/savancs.github.io/assets/97743492/b720a20b-74f2-42e0-a98c-c15b08f92fa9)
+
 
 ### Combining filters for recommendations
-![Final Example Fitlering](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20221725.jpg)
+![filters](https://github.com/savancs/savancs.github.io/assets/97743492/306bde7c-50b1-4bee-9939-e76b15cce624)
+
 
 ## Github repo
 https://github.com/savancs/product_recommender
