@@ -50,6 +50,7 @@ For this we would have used sklearn.nearestneighbors to find training samples of
 ## Media and Examples
 
 ### WandB visualizations
+<img src='./assets/Screenshot%202023-12-13%20220739.jpg' align="right" height='150'>
 ![Training Loss](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20220739.jpg)
 ![Batch Loss](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20220910.jpg)
 
