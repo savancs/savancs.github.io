@@ -48,3 +48,23 @@ Due to issues that arose during development, we were unable to work on the last 
 For this we would have used sklearn.nearestneighbors to find training samples of products closest to the desired product by the user. Ideally, the model would recommend 1-5 best products for the user to check out. We were able to simulate these results (shown below) but due to issues with tokenization and our model, they were not achieved.
 
 ## Media and Examples
+
+### WandB visualizations
+![Training Loss](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20220739.jpg)
+![Batch Loss](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20220910.jpg)
+
+### Our Data
+![Dataset Head](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20221003.jpg)
+
+### Tagging & Tokenizing
+![NER Tagging](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20221255.jpg)
+![NER Tokens](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20221334.jpg)
+
+### Training using DistilBERT
+![Training block](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20221702.jpg)
+
+### Combining filters for recommendations
+![Final Example Fitlering](https://github.com/savancs/savancs.github.io/blob/main/assets/Screenshot%202023-12-13%20221725.jpg)
+
+## Github repo
+https://github.com/savancs/product_recommender
